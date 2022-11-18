@@ -50,3 +50,6 @@ TagManager:
   - name: Primeiro_Plano
     uniqueID: 372317007
     locked: 0
+  - name: segundo_plano
+    uniqueID: 2699762615
+    locked: 0
