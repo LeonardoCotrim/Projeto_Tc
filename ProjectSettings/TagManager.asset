@@ -7,6 +7,12 @@ TagManager:
   - Tiro
   - Cogumelo
   - Morreu
+  - FallDectector
+  - CheckPoint1
+  - NextLevel
+  - PreviusChegou
+  - Cystal
+  - Spike
   layers:
   - Default
   - TransparentFX
@@ -14,7 +20,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
